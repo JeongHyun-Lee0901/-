@@ -1,0 +1,17 @@
+{
+  "description": "반도체 8대 공정 + 기초 소자 개념 데일리 퀴즈 순환 상태 추적 파일. 매일 실행 시 이 파일을 읽어 last_index 다음 순서의 주제를 선택하고, 사용 후 last_index와 last_date를 갱신할 것.",
+  "topics": [
+    "증착 (Deposition)",
+    "식각 (Etching)",
+    "노광 (Photolithography)",
+    "세정 (Cleaning)",
+    "이온주입 (Ion Implantation)",
+    "확산 (Diffusion)",
+    "CMP (Chemical Mechanical Polishing)",
+    "패키징 (Packaging)",
+    "기초 소자 개념 (Basic Device Concepts)"
+  ],
+  "last_index": 0,
+  "last_date": "2026-08-14",
+  "last_topic": "증착 (Deposition)"
+}
