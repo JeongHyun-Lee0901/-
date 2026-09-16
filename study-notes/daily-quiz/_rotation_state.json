@@ -11,7 +11,8 @@
     "패키징 (Packaging)",
     "기초 소자 개념 (Basic Device Concepts)"
   ],
-  "last_index": 0,
-  "last_date": "2026-08-14",
-  "last_topic": "증착 (Deposition)"
+  "last_index": 2,
+  "last_date": "2026-09-16",
+  "last_topic": "노광 (Photolithography)",
+  "note": "세션별 브랜치가 병합되지 않아 이 파일이 8/14(index 0) 기준으로 반복 초기화된 이력이 있음. 실제 다음 실행 시에는 git log --all -- study-notes/daily-quiz 로 가장 최근 실제 사용 주제를 재확인 후 이어갈 것을 권장."
 }
